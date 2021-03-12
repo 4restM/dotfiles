@@ -3,6 +3,11 @@ Homebrew
 git?
 
 # Installation:
+Pre-Reqs
+```
+xcode-select --install
+sudo xcodebuild -license accept
+```
 
 ```
 git clone git://github.com/MatchSG/dotfiles.git ~/dotfiles
