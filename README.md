@@ -1,7 +1,11 @@
+Xcode
+Homebrew
+git?
+
 # Installation:
 
 ```
-git clone git://github.com/gredfearn/dotfiles.git ~/dotfiles
+git clone git://github.com/MatchSG/dotfiles.git ~/dotfiles
 cd ~/dotfiles
 ./install.sh
 ```
